@@ -1,0 +1,8 @@
+E:\LuuDuLieuSinhVien\LeHuynhNam_Buoi1\LeHuynhNam_Buoi1\bin\Debug\LeHuynhNam_Buoi1.exe.config
+E:\LuuDuLieuSinhVien\LeHuynhNam_Buoi1\LeHuynhNam_Buoi1\bin\Debug\LeHuynhNam_Buoi1.exe
+E:\LuuDuLieuSinhVien\LeHuynhNam_Buoi1\LeHuynhNam_Buoi1\bin\Debug\LeHuynhNam_Buoi1.pdb
+E:\LuuDuLieuSinhVien\LeHuynhNam_Buoi1\LeHuynhNam_Buoi1\obj\Debug\LeHuynhNam_Buoi1.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\LeHuynhNam_Buoi1\LeHuynhNam_Buoi1\obj\Debug\LeHuynhNam_Buoi1.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\LeHuynhNam_Buoi1\LeHuynhNam_Buoi1\obj\Debug\LeHuynhNam_Buoi1.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\LeHuynhNam_Buoi1\LeHuynhNam_Buoi1\obj\Debug\LeHuynhNam_Buoi1.exe
+E:\LuuDuLieuSinhVien\LeHuynhNam_Buoi1\LeHuynhNam_Buoi1\obj\Debug\LeHuynhNam_Buoi1.pdb
